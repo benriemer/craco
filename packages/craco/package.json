@@ -42,7 +42,7 @@
     "dependencies": {
         "cosmiconfig": "^7.0.1",
         "cosmiconfig-typescript-loader": "^1.0.0",
-        "cross-spawn": "^7.0.0",
+        "cross-spawn": "^7.0.3",
         "lodash": "^4.17.15",
         "semver": "^7.3.2",
         "webpack-merge": "^4.2.2"
