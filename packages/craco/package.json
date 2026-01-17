@@ -37,7 +37,7 @@
         "react-scripts": "^4.0.0"
     },
     "devDependencies": {
-        "react-scripts": "4.*"
+        "react-scripts": "5.*"
     },
     "dependencies": {
         "cosmiconfig": "^7.0.1",
